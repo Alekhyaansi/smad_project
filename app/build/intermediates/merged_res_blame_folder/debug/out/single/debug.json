@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/drawable_ic_email.png.flat",
+        "source": "com.klu.shoppingapp-main-63:/drawable/ic_email.png"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/drawable_ic_name.png.flat",
+        "source": "com.klu.shoppingapp-main-63:/drawable/ic_name.png"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.klu.shoppingapp-main-63:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.klu.shoppingapp-main-63:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/drawable_auth_background.jpg.flat",
+        "source": "com.klu.shoppingapp-main-63:/drawable/auth_background.jpg"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/drawable_ic_visibility_off.xml.flat",
+        "source": "com.klu.shoppingapp-main-63:/drawable/ic_visibility_off.xml"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.klu.shoppingapp-main-63:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.klu.shoppingapp-main-63:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/drawable_ic_contactless.xml.flat",
+        "source": "com.klu.shoppingapp-main-63:/drawable/ic_contactless.xml"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/drawable_ic_add.xml.flat",
+        "source": "com.klu.shoppingapp-main-63:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/drawable_ic_address.png.flat",
+        "source": "com.klu.shoppingapp-main-63:/drawable/ic_address.png"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/drawable_ic_remove.xml.flat",
+        "source": "com.klu.shoppingapp-main-63:/drawable/ic_remove.xml"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/drawable_mastercard.png.flat",
+        "source": "com.klu.shoppingapp-main-63:/drawable/mastercard.png"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/drawable_search.png.flat",
+        "source": "com.klu.shoppingapp-main-63:/drawable/search.png"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/drawable_empty_profile_img.png.flat",
+        "source": "com.klu.shoppingapp-main-63:/drawable/empty_profile_img.png"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/xml_backup_rules.xml.flat",
+        "source": "com.klu.shoppingapp-main-63:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.klu.shoppingapp-main-63:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/drawable_error_img.xml.flat",
+        "source": "com.klu.shoppingapp-main-63:/drawable/error_img.xml"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/drawable_debug_placeholder.jpg.flat",
+        "source": "com.klu.shoppingapp-main-63:/drawable/debug_placeholder.jpg"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/drawable_ic_birthdate.png.flat",
+        "source": "com.klu.shoppingapp-main-63:/drawable/ic_birthdate.png"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/drawable_payment_success.png.flat",
+        "source": "com.klu.shoppingapp-main-63:/drawable/payment_success.png"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.klu.shoppingapp-main-63:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/drawable_credit_card.png.flat",
+        "source": "com.klu.shoppingapp-main-63:/drawable/credit_card.png"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.klu.shoppingapp-main-63:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.klu.shoppingapp-main-63:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.klu.shoppingapp-main-63:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.klu.shoppingapp-main-63:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/drawable_app_logo.png.flat",
+        "source": "com.klu.shoppingapp-main-63:/drawable/app_logo.png"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.klu.shoppingapp-main-63:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.klu.shoppingapp-main-63:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/drawable_search_result_empty.png.flat",
+        "source": "com.klu.shoppingapp-main-63:/drawable/search_result_empty.png"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.klu.shoppingapp-main-63:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/drawable_american_express.png.flat",
+        "source": "com.klu.shoppingapp-main-63:/drawable/american_express.png"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.klu.shoppingapp-main-63:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/drawable_error_image.png.flat",
+        "source": "com.klu.shoppingapp-main-63:/drawable/error_image.png"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/drawable_ic_mobile.png.flat",
+        "source": "com.klu.shoppingapp-main-63:/drawable/ic_mobile.png"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/xml_data_extraction_rules.xml.flat",
+        "source": "com.klu.shoppingapp-main-63:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.klu.shoppingapp-main-63:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.klu.shoppingapp-main-63:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/drawable_discover.png.flat",
+        "source": "com.klu.shoppingapp-main-63:/drawable/discover.png"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.klu.shoppingapp-main-63:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/drawable_ic_visibility.xml.flat",
+        "source": "com.klu.shoppingapp-main-63:/drawable/ic_visibility.xml"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.klu.shoppingapp-main-63:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.klu.shoppingapp-main-63:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.klu.shoppingapp-merged_res-61:/drawable_visa.png.flat",
+        "source": "com.klu.shoppingapp-main-63:/drawable/visa.png"
+    }
+]
